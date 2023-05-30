@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hydralcin" target="blank"><img src="https://img.shields.io/twitter/follow/hydralcin?logo=twitter&style=for-the-badge" alt="hydralcin" /></a> </p>
 
-- 🔭 I’m currently working on **Hyper Casual Games** **Casual Games** 
+- 🔭 I’m currently working on **Hyper Casual Games**, **Casual Games** 
 
 - 🌱 I’m currently learning **Unreal Engine and Unity**
 
